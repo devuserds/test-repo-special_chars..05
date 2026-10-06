@@ -1,0 +1,8 @@
+Bulk test fixture
+Repo index: 5
+Branch index: 3
+File slot: 0
+Special character: "'" (label: squote)
+Repo: test_repo-005
+Branch: branch-005-03-squote-'-x
+Path: special-chars/file-005-03-0-squote-'-x.txt
