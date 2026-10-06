@@ -1,0 +1,8 @@
+Bulk test fixture
+Repo index: 5
+Branch index: 9
+File slot: 0
+Special character: ']' (label: rbracket)
+Repo: test_repo-005
+Branch: branch-005-09-rbracket-]-x
+Path: special-chars/file-005-09-0-rbracket-]-x.txt
